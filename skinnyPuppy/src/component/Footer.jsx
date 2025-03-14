@@ -5,7 +5,7 @@ function Footer() {
       <ul>
         <li>
           <a
-            href="https://www.facebook.com/OfficialSkinnyPuppy/?locale=sv_SE"
+            href="https://www.facebook.com/skinnypuppy/"
             target="_blank"
             rel="noopener noreferrer">
             Facebook
@@ -13,7 +13,7 @@ function Footer() {
         </li>
         <li>
           <a
-            href="https://x.com/skinnypuppy_"
+            href="https://twitter.com/skinnypuppy"
             target="_blank"
             rel="noopener noreferrer">
             Twitter
@@ -21,7 +21,7 @@ function Footer() {
         </li>
         <li>
           <a
-            href="https://www.instagram.com/officialskinnypuppy/?hl=sv"
+            href="https://www.instagram.com/skinnypuppyofficial/"
             target="_blank"
             rel="noopener noreferrer">
             Instagram
