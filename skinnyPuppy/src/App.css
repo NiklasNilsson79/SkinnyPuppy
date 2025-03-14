@@ -26,10 +26,10 @@
 
 .nav-bar li {
   margin-left: 10px;
-  color: aliceblue;
+ 
 }
-a {
-  color: #333;
+.nav-bar li a {
+  color: #fff;
 }
 
 .nav-bar a {
