@@ -42,7 +42,7 @@ a {
 }
 
 .footer {
-  background-color: #222; /* Mörk bakgrund */
+  background-color: #222;
   color: white;
   text-align: center;
   padding: 20px 0;
@@ -81,16 +81,8 @@ a {
 }
 
 .footer a:hover {
-  color: #f39c12; /* Ljus orange hover-effekt */
-  transform: scale(1.1); /* Liten zoom-effekt vid hover */
-}
-
-/* Se till att footern alltid är längst ner på sidan */
-html,
-body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
+  color: #f39c12;
+  transform: scale(1.1);
 }
 
 #root {
