@@ -1,12 +1,15 @@
 .nav-bar {
-  background-color: #f8f9fa;
+  background-color: #222;
   padding: 10px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-  border: solid 1px  black;
-
+  border: solid 1px;
+  width: 100%;
+}
+.logo {
+  color: #f39c12;
 }
 
 .nav-bar h1 {
@@ -23,6 +26,10 @@
 
 .nav-bar li {
   margin-left: 10px;
+  color: aliceblue;
+}
+a {
+  color: #333;
 }
 
 .nav-bar a {
@@ -31,7 +38,7 @@
 }
 
 .nav-bar a:hover {
-  color: #007bff;
+  color: #f39c12;
 }
 
 .footer {
